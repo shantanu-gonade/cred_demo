@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318922457086",
+    "firebase_url": "https://fir-cred.firebaseio.com",
+    "project_id": "fir-cred",
+    "storage_bucket": "fir-cred.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318922457086:android:747bb63bf6d675396d8aaf",
+        "android_client_info": {
+          "package_name": "com.example.demo_cred"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318922457086-s6rbdgrl7b5v4jpt93qrqp3mqpnend76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4_bSLpIcOHu4AjbzvnI7OWZLzO0wUlpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318922457086-s6rbdgrl7b5v4jpt93qrqp3mqpnend76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
